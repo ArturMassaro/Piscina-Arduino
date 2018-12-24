@@ -1,0 +1,4 @@
+on - F171 / 95B38CA
+sound - F1B1 / B3EE6F0E
+vol- - 19130F62 / F1A1
+vol+ - F121 / BC480D16
